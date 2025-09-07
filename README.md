@@ -1,7 +1,7 @@
 ## Installation
 
 ### 1. Clone the repository
-cd backend
+cd backend </br>
 npm install
 npm run dev
 
