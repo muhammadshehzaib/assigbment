@@ -9,3 +9,6 @@ cd frontend
 npm install
 npm run dev
 
+swagger 
+http://localhost:3000/api-docs/
+
